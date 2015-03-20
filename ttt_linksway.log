@@ -1,0 +1,87 @@
+
+
+
+materialPath: D:\SteamLibrary\SteamApps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Linkfan321\Documents\GitHub\ttt_linksway\ttt_linksway.vmf
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "67thway/bathroom" not found.
+Material not found!: 67THWAY/BATHROOM
+material "67thway/cell" not found.
+Material not found!: 67THWAY/CELL
+material "67thway/barn" not found.
+Material not found!: 67THWAY/BARN
+material "realworldtextures2/metal/metal_187" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_187
+material "67thway/pool" not found.
+Material not found!: 67THWAY/POOL
+Can't find surfaceprop antlionsand for material NATURE/BLENDSANDGRASS008A, using default
+material "realworldtextures2/concrete/concrete_40" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/CONCRETE_40
+material "trollstep/dontstarve" not found.
+Material not found!: TROLLSTEP/DONTSTARVE
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/ttt_linksway/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/ttt_linksway/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/ttt_linksway/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3294 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Linkfan321\Documents\GitHub\ttt_linksway\ttt_linksway.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/militia_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/militia_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1447402 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+..10
+Compacting texture/material tables...
+Reduced 2965 texinfos to 2150
+Reduced 229 texdatas to 190 (7261 bytes to 5926)
+Writing C:\Users\Linkfan321\Documents\GitHub\ttt_linksway\ttt_linksway.bsp
+7 seconds elapsed
+
+
+
+8 threads
+reading c:\users\linkfan321\documents\github\ttt_linksway\ttt_linksway.bsp
+reading c:\users\linkfan321\documents\github\ttt_linksway\ttt_linksway.prt
+2496 portalclusters
+6825 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\linkfan321\documents\github\ttt_linksway\ttt_linksway.bsp
+No vis information, direct lighting only.
+14057 faces
+41 degenerate faces
+939300 square feet [135259280.00 square inches]
+23 Displacements
+127030 Square Feet [18292406.00 Square Inches]
+202 direct lights
+0...1...2...3...4...5...6...7
+WARNING: Too many light styles on a face at (-872.000000, 328.000000, -447.000000)
+
+WARNING: Too many light styles on a face at (-552.000000, 328.000000, -447.000000)
+...8.
