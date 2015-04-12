@@ -1,5 +1,7 @@
-# ttt_linksway
+# ttt_linksway (Beta Branch)
 A modification to ttt_67thway (Have not tested because Hammer is a jerk)
+
+# This is the BETA branch. All outside commits will go into here FIRST.
 
 ## (planned) Features:
 - Add stairs to the main entryway into the underground  
