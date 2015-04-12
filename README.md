@@ -15,7 +15,7 @@ A modification to ttt_67thway (Have not tested because Hammer is a jerk)
   - Must have **all GMod _and_ TTT** sources in config
 3. Customise map to your liking
   - Make sure the product is *mostly* polished (dev textures are fine)
-4. Make a pull request
+4. Make a pull request for the beta branch
   - Title it as **"[GitHub username]'s ttt_linksway Contribution #[1 for first contribution, 2 for second, etc.]"**
   - State what you changed/added into the map
   - If your pull request is accepted, your UN will go into the credits as "GitHub Contributer"
