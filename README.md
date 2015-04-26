@@ -2,9 +2,10 @@
 A modification to ttt_67thway (Have not tested because Hammer is a jerk)
 
 ## (planned) Features:
-- Add stairs to the main entryway into the underground  
-- Make one of the farm houses bigger  
-- Make the sniper spot in the farm bigger  
+- Done: ~~Add stairs to the main entryway into the underground~~ Decided not to do that but instead make another ladder
+- Done: Make one of the farm houses bigger  
+- In Progress: Make the sniper spot in the farm bigger  
+- In Progress: Make athstetic changes to "realitize" atmosphere
 - Other general improvements
 
 ## How To Contribute:
@@ -19,3 +20,8 @@ A modification to ttt_67thway (Have not tested because Hammer is a jerk)
   - Title it as **"[GitHub username]'s ttt_linksway Contribution #[1 for first contribution, 2 for second, etc.]"**
   - State what you changed/added into the map
   - If your pull request is accepted, your UN will go into the credits as "GitHub Contributer"
+ 
+## Credits:
+linkfan123-For doing most of the work  
+...  
+You-For taking a look at this  
