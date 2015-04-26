@@ -1,0 +1,10 @@
+ttt_linksway
+CHANGELOG
+---
+ttt_linksway_h1
+-Decided to scrap the stair idea and make another ladder.
+-Added some minor details to props (made them look natural... ish)
+---
+First Features:
+-Working on stairs
+-Making Barn area structures bigger
