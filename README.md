@@ -1,7 +1,7 @@
 # ttt_linksway
 A modification to ttt_67thway(\_v13?) to hopefully improve the map even further.
 
-##Note
+## Note
 This is a VERY old project that has not been worked on in 6 freakin' years. Don't expect anything to actually get done.
 
 ## (planned) Features:
